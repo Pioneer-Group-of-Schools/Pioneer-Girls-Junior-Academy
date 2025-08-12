@@ -1,0 +1,9 @@
+@media (orientation: portrait) {
+  .orientation-container {
+    flex-direction: column !important;
+    text-align: center;
+    justify-content: center;
+    gap: 3rem;
+   
+  }
+}
